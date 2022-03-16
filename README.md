@@ -22,11 +22,11 @@ We want to know/do:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Highlights of the final_model
+<b>- Highlights of the final_model
 - Number of Features = 18
 - r2_score = 0.8 (on the whole data)
-- Top 2 variables with highest +ve impact are <b>atemp</b> & yr
-- Top 2 variables with highest -ve impact are hum & windspeed 
+- Top 2 variables with highest +ve impact are atemp & yr
+- Top 2 variables with highest -ve impact are hum & windspeed </b>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
