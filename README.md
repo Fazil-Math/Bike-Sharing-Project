@@ -13,10 +13,11 @@ A US bike-sharing provider BoomBikes hired us to build a multiple linear regress
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+We want to know/do:
+
+- Which features are significant in predicting the demand for shared bikes.
+- How well those features describe the bike demands
+- Making predictions off of these features
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
