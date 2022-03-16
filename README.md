@@ -42,7 +42,7 @@ We want to know/do:
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@Fazil-Math] - feel free to contact me!
+Created by [github.com/Fazil-Math] - feel free to contact me!
 
 
 <!-- Optional -->
