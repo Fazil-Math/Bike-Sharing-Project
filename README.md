@@ -1,6 +1,6 @@
 # Bike-Sharing-Project
 
->Problem Statement:
+## Problem Statement:
 A US bike-sharing provider BoomBikes hired us to build a multiple linear regression model for the prediction of demand for shared bikes. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
 
 
