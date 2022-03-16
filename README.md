@@ -22,18 +22,22 @@ We want to know/do:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Highlights of the final_model
+- Number of Features = 18
+- r2_score = 0.8 (on the whole data)
+- Top 2 variables with highest +ve impact are atemp & yr
+- Top 2 variables with highest -ve impact are hum & windspeed 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy
+- pandas
+- matplotlib.pyplot
+- seaborn
+- sklearn
+- statsmodels
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
